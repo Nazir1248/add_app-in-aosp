@@ -1,0 +1,11 @@
+Add the apk in aosp 
+
+#path of the app
+<vendor>/package/AMyApp
+
+#path to build the app
+<!--for mobile application  -->
+handheld.mk
+
+<!-- for build the  -->
+car.mk
